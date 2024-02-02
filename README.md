@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gobigan</h1>
+<h1 align="center">Hi 👋, I'm @idflxw0</h1>
 <h3 align="center">2nd year computer science student.</h3>
 
 - 🔭 I’m currently working on **Fintess Tracker**
