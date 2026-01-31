@@ -43,10 +43,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-!https://github-readme-stats.vercel.app/api?username=idflxw0&theme=dark&hide_border=false&include_all_commits=true&count_private=true<br/>
-!https://nirzak-streak-stats.vercel.app/?user=idflxw0&theme=dark&hide_border=false<br/>
-!https://github-readme-stats.vercel.app/api/top-langs/?username=idflxw0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
