@@ -46,9 +46,7 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=idflxw0&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Gobigan's Github Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idflxw0&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
-</p>
+# 📊 GitHub Stats:
+!https://github-readme-stats.vercel.app/api?username=idflxw0&theme=dark&hide_border=false&include_all_commits=true&count_private=true<br/>
+!https://nirzak-streak-stats.vercel.app/?user=idflxw0&theme=dark&hide_border=false<br/>
+!https://github-readme-stats.vercel.app/api/top-langs/?username=idflxw0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
