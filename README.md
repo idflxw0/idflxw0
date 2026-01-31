@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm @idflxw0</h1>
-<h3 align="center">2nd year computer science student.</h3>
+<h3 align="center">4th year computer science student.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/As7YJSr.png">
 
-- 🔭 I’m currently working on a **Fitness Tracker app with React Native**
+- 🔭 I’m currently working on a **SaaS application for the freelancers**
 
-- 🌱 I’m currently learning **React native and Firebase**
+- 🌱 I’m currently learning **deployment and infrastructure fundamentals** by running a personal home server for application hosting and experimentation.
 
 - 📫 How to reach me **idfl0wxzero@gmail.com**
 
